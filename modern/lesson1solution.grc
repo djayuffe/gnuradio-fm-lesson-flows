@@ -21,7 +21,7 @@
     </param>
     <param>
       <key>description</key>
-      <value>Modernized GNU Radio Companion flowgraph generated from archived lesson1solution.grc.</value>
+      <value>Modern GNU Radio Companion flowgraph validated for this repository.</value>
     </param>
     <param>
       <key>window_size</key>
